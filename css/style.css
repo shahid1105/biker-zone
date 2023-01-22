@@ -1,0 +1,16 @@
+.icon-star img{
+    width: 18px;
+    display: inline;
+}
+
+
+footer{
+    color: #D9DBE1;
+}
+.footer-image{
+    width: 135px;
+    height: 40px;
+}
+.list-bz-item li{
+    list-style: none;
+}
